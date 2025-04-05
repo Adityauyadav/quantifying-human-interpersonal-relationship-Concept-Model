@@ -62,7 +62,6 @@ Different types of relationships emphasize different components. For instance:
 Relationships are not static. To capture their dynamic nature:
 
 $$
-
 \frac{dB}{dt} = \alpha \cdot \frac{dE}{dt} + \beta \cdot \frac{dEf}{dt} + \gamma \cdot \frac{dR}{dt} + \delta \cdot \frac{dS}{dt} + \epsilon \cdot  \frac{dM}{dt}
 $$
 
