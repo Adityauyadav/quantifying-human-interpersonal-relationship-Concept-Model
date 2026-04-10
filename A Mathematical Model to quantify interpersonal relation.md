@@ -23,7 +23,7 @@ $$
 Where:
 
 - $E(t)$  = Emotional Investment
-- $Ef(t)$ = Effort
+- $EF(t)$ = Effort
 - $R(t)$  = Reciprocity
 - $S(t)$  = Shared Experiences
 - $A(t)$ = Age of Relationship (Time known)
@@ -49,7 +49,7 @@ Each event can be weighted (e.g., +3 for deep trust, -2 for minor fights), allow
 
 Different types of relationships emphasize different components. For instance:
 
-| Relationship Type | E | Ef | R | S | A | Notes |
+| Relationship Type | E | EF | R | S | A | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | Romantic | High | High | High | High | Medium | Intensity & effort focused |
 | Friendship | Medium | Medium | High | High | Medium | Mutuality key |
@@ -62,10 +62,10 @@ Different types of relationships emphasize different components. For instance:
 Relationships are not static. To capture their dynamic nature:
 
 $$
-\frac{dB}{dt} = \alpha \cdot \frac{dE}{dt} + \beta \cdot \frac{dEf}{dt} + \gamma \cdot \frac{dR}{dt} + \delta \cdot \frac{dS}{dt} + \epsilon \cdot  \frac{dM}{dt}
+\frac{dB}{dt} = \alpha \cdot \frac{dE}{dt} + \beta \cdot \frac{dEF}{dt} + \gamma \cdot \frac{dR}{dt} + \delta \cdot \frac{dS}{dt} + \epsilon \cdot  \frac{dM}{dt}
 $$
 
-This differential form reflects whether a relationship is strengthening or deteriorating, helping identify turning points or intervention needs (e.g., therapy, communication, reconnection).
+This differential form rEFlects whether a relationship is strengthening or deteriorating, helping identify turning points or intervention needs (e.g., therapy, communication, reconnection).
 
 ---
 
