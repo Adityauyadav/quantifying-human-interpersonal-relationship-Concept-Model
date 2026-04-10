@@ -17,7 +17,7 @@ This paper proposes a formal model for measuring "Bond Strength" as a function o
 We define the bond strength between two individuals over time, denoted as B(t) , as follows:
 
 $$
-B(t) = (\alpha \cdot E(t)) + (\beta \cdot Ef(t)) + (\gamma \cdot R(t)) + (\delta \cdot S(t)) + (\epsilon \cdot A(t)) + M(t)
+B(t) = (\alpha \cdot E(t)) + (\beta \cdot EF(t)) + (\gamma \cdot R(t)) + (\delta \cdot S(t)) + (\epsilon \cdot A(t)) + M(t)
 $$
 
 Where:
